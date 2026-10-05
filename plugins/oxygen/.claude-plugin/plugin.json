@@ -1,0 +1,20 @@
+{
+  "name": "oxygen",
+  "displayName": "OXYGEN",
+  "version": "1.0.0",
+  "description": "Run OXYGEN, revenue infrastructure for B2B startups, from Claude: build GTM tables, enrich leads, draft sequences and workflows, and keep a CRM and company knowledge graph through OXYGEN's hosted MCP server. Paid and external actions always preview first and wait for your approval.",
+  "author": {
+    "name": "OXYGEN",
+    "email": "support@oxygen-agent.com",
+    "url": "https://oxygen-agent.com"
+  },
+  "homepage": "https://oxygen-agent.com",
+  "repository": "https://github.com/OXYGEN-CRO/agent-plugins",
+  "license": "MIT",
+  "keywords": ["gtm", "sales", "marketing", "revenue", "crm", "enrichment", "outbound", "mcp"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://oxygen-agent.com/docs/surfaces/claude-code",
+  "supportUrl": "https://oxygen-agent.com/docs/surfaces/support",
+  "privacyPolicyUrl": "https://oxygen-agent.com/connector-privacy",
+  "termsOfServiceUrl": "https://oxygen-agent.com/terms"
+}

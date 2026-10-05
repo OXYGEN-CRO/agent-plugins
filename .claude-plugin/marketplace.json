@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "oxygen",
+  "description": "OXYGEN — revenue infrastructure for B2B startups. First-party Claude plugin marketplace: the hosted OXYGEN MCP server and a start-here skill.",
+  "owner": {
+    "name": "OXYGEN",
+    "email": "support@oxygen-agent.com"
+  },
+  "plugins": [
+    {
+      "name": "oxygen",
+      "source": "./plugins/oxygen",
+      "description": "Run OXYGEN — the agent-run GTM workspace (tables, enrichment, sequences, workflows, CRM, knowledge) — from Claude. Bundles the hosted OXYGEN MCP server and a start-here skill; paid and external actions preview first and wait for approval.",
+      "homepage": "https://oxygen-agent.com"
+    }
+  ]
+}
