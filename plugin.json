@@ -9,6 +9,6 @@
   },
   "homepage": "https://oxygen-agent.com",
   "repository": "https://github.com/OXYGEN-CRO/agent-plugins",
-  "license": "MIT",
+  "license": "LicenseRef-OXYGEN-Proprietary",
   "keywords": ["gtm", "sales", "marketing", "revenue", "mcp"]
 }
