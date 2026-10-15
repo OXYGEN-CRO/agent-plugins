@@ -22,7 +22,7 @@ claude plugin install oxygen@oxygen --scope project
 
 ## Cursor and Grok Bot
 
-The portable plugin is at this repository's root: `plugin.json`, `mcp.json`, and `skills/oxygen/SKILL.md`. Install it from the Cursor Marketplace once approved, then authorize the OXYGEN connection when prompted. Grok Bot users can find installed plugins under Plugins → Yours.
+The portable plugin is at this repository's root: `plugin.json`, `mcp.json`, and `skills/oxygen/SKILL.md`, under the [OXYGEN Proprietary License](LICENSE). This package is not eligible for the Cursor Marketplace under its current [licensing policy](https://cursor.com/help/security-and-privacy/marketplace-security). Cursor users can connect the hosted server at `https://oxygen-agent.com/mcp` directly and complete browser authorization; see the [generic MCP setup guide](https://oxygen-agent.com/docs/surfaces/generic-mcp).
 
 Before marketplace approval, Grok Bot accounts that offer **Settings → Plugins → custom MCP server** can add `https://oxygen-agent.com/mcp` directly and complete its browser authorization. This connects the hosted tools; it does not install the packaged skill. If the authorization does not complete, use the [generic MCP setup guide](https://oxygen-agent.com/docs/surfaces/generic-mcp) and report the exact error. This custom route has not yet been verified in a Grok Bot account.
 
