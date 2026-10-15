@@ -20,7 +20,7 @@ How OXYGEN handles data: [connector privacy policy](https://oxygen-agent.com/con
 
 ## Requirements and cost
 
-You need an OXYGEN account; signing up at [oxygen-agent.com](https://oxygen-agent.com) is free, and a new workspace starts with free credits. The plugin is free and open source. OXYGEN usage is billed in credits under your plan ([pricing](https://oxygen-agent.com/pricing)); the plugin adds no separate billing.
+You need an OXYGEN account; signing up at [oxygen-agent.com](https://oxygen-agent.com) is free, and a new workspace starts with free credits. The plugin is proprietary and adds no separate plugin fee. OXYGEN usage is billed in credits under your plan ([pricing](https://oxygen-agent.com/pricing)); the plugin adds no separate billing.
 
 ## Install in Claude Code
 
@@ -37,4 +37,4 @@ Then run `/mcp`, sign in to OXYGEN, and ask Claude: "Connect to OXYGEN, tell me 
 - Support: https://oxygen-agent.com/docs/surfaces/support or support@oxygen-agent.com
 - Terms: https://oxygen-agent.com/terms
 
-Licensed under the MIT License (see `LICENSE`).
+Copyright (c) 2026 OXYGEN GTM Inc. All rights reserved. The [OXYGEN Proprietary License](LICENSE) permits unmodified use with an authorized OXYGEN account; redistribution, resale and reuse in other products require OXYGEN’s written permission.

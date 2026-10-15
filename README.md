@@ -2,7 +2,7 @@
 
 First-party agent plugins for **OXYGEN**, the agentic GTM platform for B2B GTM teams. This repository holds the OXYGEN plugin for Claude (Claude Code, Cowork and Anthropic's Claude plugin directory) and a portable [Agent Plugins](https://agent-plugins.org/) package for Cursor and Grok Bot.
 
-Both connect the hosted OXYGEN MCP server at `https://oxygen-agent.com/mcp`. Connecting asks the user to authorize access to their OXYGEN workspace in the browser; the plugins contain no credentials. The plugins are free and open source. OXYGEN's service has its own [pricing](https://oxygen-agent.com/pricing), [terms](https://oxygen-agent.com/terms), and [privacy policy](https://oxygen-agent.com/privacy).
+Both connect the hosted OXYGEN MCP server at `https://oxygen-agent.com/mcp`. Connecting asks the user to authorize access to their OXYGEN workspace in the browser; the plugins contain no credentials. The plugins are proprietary, with no separate plugin fee. The [OXYGEN Proprietary License](LICENSE) permits unmodified use with an authorized OXYGEN account; redistribution, resale and reuse in other products require OXYGEN’s written permission. OXYGEN's service has its own [pricing](https://oxygen-agent.com/pricing), [terms](https://oxygen-agent.com/terms), and [privacy policy](https://oxygen-agent.com/privacy).
 
 ## Claude
 
