@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "oxygen",
-  "description": "Connect OXYGEN revenue infrastructure to an AI agent: inspect GTM tables, research companies, and run governed workflows through the hosted MCP server.",
+  "description": "Connect OXYGEN, the agentic GTM platform, to an AI agent: inspect GTM tables, research companies, and run governed workflows through the hosted MCP server.",
   "author": {
     "name": "OXYGEN",
     "email": "support@oxygen-agent.com",

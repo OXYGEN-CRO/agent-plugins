@@ -1,8 +1,8 @@
 {
   "name": "oxygen",
   "displayName": "OXYGEN",
-  "version": "1.0.0",
-  "description": "Run OXYGEN, revenue infrastructure for B2B startups, from Claude: build GTM tables, enrich leads, draft sequences and workflows, and keep a CRM and company knowledge graph through OXYGEN's hosted MCP server. Paid and external actions always preview first and wait for your approval.",
+  "version": "1.0.1",
+  "description": "Run OXYGEN, the agentic GTM platform for B2B GTM teams, from Claude: build GTM tables, enrich leads, draft sequences and workflows, and keep a CRM and company knowledge graph through OXYGEN's hosted MCP server. Paid and external actions always preview first and wait for your approval.",
   "author": {
     "name": "OXYGEN",
     "email": "support@oxygen-agent.com",

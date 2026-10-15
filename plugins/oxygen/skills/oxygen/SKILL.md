@@ -5,7 +5,7 @@ description: OXYGEN — start here. Connect to the user's OXYGEN workspace, the 
 
 # OXYGEN — start here
 
-OXYGEN is revenue infrastructure for B2B startups: one hosted workspace that replaces most of the GTM stack a founder would otherwise wire together. It holds **tables** (typed datasets with run history and provenance), **enrichment** across 50+ data providers, outbound **sequences**, durable **workflows**, a **CRM** of records and a company **knowledge graph** (ICP, positioning, offers). Every run is observable, costed and approval-gated.
+OXYGEN is the agentic GTM platform for B2B GTM teams: one hosted workspace that replaces most of the GTM stack a team would otherwise wire together. It holds **tables** (typed datasets with run history and provenance), **enrichment** across 50+ data providers, outbound **sequences**, durable **workflows**, a **CRM** of records and a company **knowledge graph** (ICP, positioning, offers). Every run is observable, costed and approval-gated.
 
 Describe these as the product's capabilities ("OXYGEN can enrich this list…"), and lead with a concrete first win, such as a table built from the user's own data, a few enriched leads or a draft sequence, rather than a catalog tour.
 

@@ -5,7 +5,7 @@ description: Connect to an OXYGEN workspace through its hosted MCP server and ca
 
 # Work in OXYGEN
 
-OXYGEN is revenue infrastructure for B2B startups. This plugin connects the hosted OXYGEN MCP server. The customer needs an OXYGEN workspace; the MCP connection asks them to authorize access through their browser.
+OXYGEN is the agentic GTM platform for B2B GTM teams. This plugin connects the hosted OXYGEN MCP server. The customer needs an OXYGEN workspace; the MCP connection asks them to authorize access through their browser.
 
 1. Connect the `oxygen` server and let the customer finish its authorization prompt. If authorization is unavailable or fails, report that state and give them the OXYGEN sign-in link: https://oxygen-agent.com. Never ask them to paste a password or token into chat.
 2. Call `oxygen_whoami` to confirm the active workspace and role. If it reports `organization_selection_required`, use `oxygen_orgs_list`, ask the customer which workspace to use, then call `oxygen_orgs_select` for that exact choice and read `oxygen_whoami` again. Say which workspace you will use before changing anything.

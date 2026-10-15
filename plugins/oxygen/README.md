@@ -1,6 +1,6 @@
 # OXYGEN for Claude
 
-OXYGEN is revenue infrastructure for B2B startups. This plugin lets Claude work in your OXYGEN workspace: build and enrich GTM tables, research companies and people, draft outbound sequences and workflows, and keep your CRM records and company knowledge graph current. Every run stays visible in OXYGEN with its cost, its results and a link to inspect it.
+OXYGEN is the agentic GTM platform for B2B GTM teams. This plugin lets Claude work in your OXYGEN workspace: build and enrich GTM tables, research companies and people, draft outbound sequences and workflows, and keep your CRM records and company knowledge graph current. Every run stays visible in OXYGEN with its cost, its results and a link to inspect it.
 
 ## What the plugin contains
 
